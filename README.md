@@ -1,4 +1,5 @@
 # pradhan-demo
+
 this is my first github repository
 <br>
-author-karan pradhan
+author-karan (apna college)
